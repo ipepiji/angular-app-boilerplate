@@ -23,5 +23,5 @@
 ### Environment
 #### Generate environment file
 ```bash
-ng generate environments
+  ng generate environments
 ```
